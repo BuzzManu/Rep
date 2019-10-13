@@ -1,3 +1,3 @@
 alert("salut!");
-navigator.vibrate(500);
+windows.vibrate(500);
 
