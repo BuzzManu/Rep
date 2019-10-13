@@ -1,3 +1,3 @@
 alert("salut!");
-vibrate:(500);
+vibrate:[500];
 
